@@ -7,5 +7,3 @@ For this project, Used a PIR motion sensor to detect motion and integrated it wi
 ![lamp](https://user-images.githubusercontent.com/88089351/186608520-fd0ae8f5-46f7-499c-b813-0b2f43107897.jpg)
 
 
-Uploading VN20211124_185222.mp4…
-
